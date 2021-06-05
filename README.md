@@ -5,6 +5,8 @@ Authors: Morgan Eidam, Tianxiao Jiang, and Kaleen Shrestha.
 Final paper: Not yet completed.
 
 # Instructions
+Unzip the zip files containing the train/dev splits for the aNLI, HellaSwag, and SocialIQA tasks.
+
 To replicate our code, run main.ipynb:
 Run the optional cell at the top to download required packages if not installed.
 Then, run all cells up to, but not including 'Phase 1'.
