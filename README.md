@@ -11,5 +11,5 @@ Then, run all cells up to, but not including 'Phase 1'.
 
 For all the experiments afterwards, they might require a checkpoint. If no checkpoint is present, you can fine-tune from scratch by commenting out the torch.load and model.load_state lines. Please modify the path to the checkpoint if checkpoints have been stored.
 
-References:
+#References
 [1] Sap, Maarten et al. “Social IQA: Commonsense Reasoning about Social Interactions.” EMNLP 2019 (2019).
